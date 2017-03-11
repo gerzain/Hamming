@@ -1,0 +1,10 @@
+F:\Respaldo 02-Septiembre-2016\elMesero_Hamming\Hamming\Hamming\bin\Debug\Hamming.exe
+F:\Respaldo 02-Septiembre-2016\elMesero_Hamming\Hamming\Hamming\bin\Debug\Hamming.pdb
+F:\Respaldo 02-Septiembre-2016\elMesero_Hamming\Hamming\Hamming\bin\Debug\Hamming.xml
+F:\Respaldo 02-Septiembre-2016\elMesero_Hamming\Hamming\Hamming\obj\Debug\Hamming.vbprojResolveAssemblyReference.cache
+F:\Respaldo 02-Septiembre-2016\elMesero_Hamming\Hamming\Hamming\obj\Debug\Hamming.Index.resources
+F:\Respaldo 02-Septiembre-2016\elMesero_Hamming\Hamming\Hamming\obj\Debug\Hamming.Resources.resources
+F:\Respaldo 02-Septiembre-2016\elMesero_Hamming\Hamming\Hamming\obj\Debug\Hamming.vbproj.GenerateResource.Cache
+F:\Respaldo 02-Septiembre-2016\elMesero_Hamming\Hamming\Hamming\obj\Debug\Hamming.exe
+F:\Respaldo 02-Septiembre-2016\elMesero_Hamming\Hamming\Hamming\obj\Debug\Hamming.xml
+F:\Respaldo 02-Septiembre-2016\elMesero_Hamming\Hamming\Hamming\obj\Debug\Hamming.pdb
